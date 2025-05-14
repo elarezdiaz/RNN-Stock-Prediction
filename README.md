@@ -1,5 +1,5 @@
 
-# Recurrent Neural Networks and Stock Price Prediciton
+# Recurrent Neural Networks and Stock Price Prediction
 
 First, let's start with the LSTM model:
 
